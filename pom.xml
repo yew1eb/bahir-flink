@@ -78,6 +78,7 @@
     <module>flink-connector-akka</module>
     <module>flink-connector-influxdb</module>
     <module>flink-library-siddhi</module>
+    <module>flink-connector-mqtt</module>
   </modules>
 
   <properties>
