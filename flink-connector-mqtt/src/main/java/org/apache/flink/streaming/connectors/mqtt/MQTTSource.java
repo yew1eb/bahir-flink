@@ -1,8 +1,7 @@
-package io.github.pkhanal.sources;
+package org.apache.flink.streaming.connectors.mqtt;
 
 import org.apache.flink.api.common.functions.StoppableFunction;
 import org.apache.flink.streaming.api.functions.source.SourceFunction;
-import org.eclipse.paho.client.mqttv3.*;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Properties;

@@ -1,7 +1,6 @@
-package io.github.pkhanal;
+package org.apache.flink.streaming.connectors.mqtt;
 
 
-import io.github.pkhanal.sources.MQTTSource;
 import org.apache.flink.api.common.functions.MapFunction;
 import org.apache.flink.streaming.api.datastream.DataStream;
 import org.apache.flink.streaming.api.datastream.DataStreamSource;

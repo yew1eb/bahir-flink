@@ -1,4 +1,4 @@
-package io.github.pkhanal;
+package org.apache.flink.streaming.connectors.mqtt;
 
 
 import com.google.gson.JsonObject;
